@@ -1,0 +1,1 @@
+Shows how to use more then one scope and getting info on the user even though your using an API that doesn't include user information like Picasa.
